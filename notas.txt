@@ -1,0 +1,28 @@
+smart contracts : programa ejecutable, se ejecuta dentro de la blockchaing,
+son publicos, son de 160 bits, lenguaje de programacion transpilado a bitecode(MV), no son autoejecutables, solo se pueden ejecutar en base a transaciones
+
+
+Etereun: permite dos tipos de cuentas
+    *cuentas de propiedad externas: lo unico que pueden tener un saldo en una cripto
+    *cuentas de contratos: pueden guardar un saldo como las externas pero tambien pueden guardar una logica(codigo ejecutable)
+
+
+
+
+para que una funcion reciba ethers hay que usar la palabra reservada payable en los smart contracts
+
+address = se usa para guardar o gestionar  una direccion de ethereum
+
+funciones modificadoras (modifier) = Los modificadores de función se utilizan para modificar el comportamiento de una función. Por ejemplo, para agregar un requisito previo a una función.
+
+transacciones esta compuesta por :
+    destino
+    valor
+    datos
+    limite de gas
+    precio de gas
+    Nonce
+    firma criptografica
+
+
+visibilidad
